@@ -35,6 +35,7 @@ export const catalogCategories = {
       mysql: {id: 'mysql', label: 'MySQL', field: 'tags', values: ['mysql']},
       postgresql: {id: 'postgresql', label: 'Postgres', field: 'tags', values: ['postgresql']},
       mariadb: {id: 'mariadb', label: 'MariaDB', field: 'tags', values: ['mariadb']},
+      cassandra: {id: 'cassandra', label: 'Cassandra', field: 'tags', values: ['cassandra']},
     },
   },
   middleware: {
